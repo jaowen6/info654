@@ -4,7 +4,7 @@ body { background-color: antiquewhite; }
         #header {background:antiquewhite; color:rgb(96, 20, 20); border-top:25px solid pink; border-top-style: dotted;}
         #footer {clear:left ; background:antiquewhite;color:rgb(96, 20, 20); border-bottom: 10px solid pink;}
          #leftnav,#centerbody {margin:10px; float:left;}
-        #leftnav {color: rgb(96, 20, 20); padding-left:10px; width:20%; height: fit-content}
+        #leftnav {color: rgb(96, 20, 20); padding-left:10px; width:20%;}
         #centerbody {color:rgb(96, 20, 20); text-align: left; width:70%;height: fit-content;}
         
        
