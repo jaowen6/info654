@@ -13,7 +13,7 @@
     display: block;
     width: 100%;
     height: auto;
-    position: center;
+    object-position: center;
 }
 .JOoverlay {
     position: absolute;
@@ -24,7 +24,7 @@
     height: 100%;
     width: 100%;
     opacity: 0;
-    transition: .5s ease;
+    transition: opacity .5s ease;
     background-color: black;
 }
 .JOcontainer:hover .JOoverlay {
